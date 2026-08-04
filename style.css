@@ -481,3 +481,6 @@ a:focus-visible, button:focus-visible {
   .service-card-highlight { transform: none; }
   .fab-line { bottom: 16px; right: 16px; width: 52px; height: 52px; }
 }
+.text-accent {
+  color: #FF6B4A; /* ブランドカラーのコーラルオレンジ */
+}
